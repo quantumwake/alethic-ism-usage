@@ -1,10 +1,10 @@
 package main
 
 import (
-	"alethic-ism-usage/pkg/data"
 	"context"
 	"encoding/json"
 	"github.com/nats-io/nats.go"
+	"github.com/quantumwake/alethic-ism-core-go/pkg/data"
 	"github.com/quantumwake/alethic-ism-core-go/pkg/routing"
 	"log"
 	"os"

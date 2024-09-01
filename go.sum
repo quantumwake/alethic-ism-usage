@@ -24,6 +24,8 @@ github.com/quantumwake/alethic-ism-core-go v0.0.0-20240831174026-c151b19b0a87 h1
 github.com/quantumwake/alethic-ism-core-go v0.0.0-20240831174026-c151b19b0a87/go.mod h1:i8zelK/Ts5zl+iTA6xs7pqaJFcwb01637sTvnhrdtb0=
 github.com/quantumwake/alethic-ism-core-go v0.0.0-20240901183035-0830a900774e h1:PdjikDGQqmdoZXCjMSgVk/NjA6bNFl1SFajQR/qpmGI=
 github.com/quantumwake/alethic-ism-core-go v0.0.0-20240901183035-0830a900774e/go.mod h1:i8zelK/Ts5zl+iTA6xs7pqaJFcwb01637sTvnhrdtb0=
+github.com/quantumwake/alethic-ism-core-go v0.0.0-20240901183329-4f49e073ecc6 h1:H6qRmCzHuA+gLEZL+SgAwAEz6m+Cs7nsZK5VpoLYQw8=
+github.com/quantumwake/alethic-ism-core-go v0.0.0-20240901183329-4f49e073ecc6/go.mod h1:Ze8exYSFw6xI0syfdoIjV1r/fiVm4GebWvDX4mb4Yv8=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
