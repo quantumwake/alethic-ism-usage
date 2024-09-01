@@ -22,6 +22,8 @@ github.com/nats-io/nuid v1.0.1/go.mod h1:19wcPz3Ph3q0Jbyiqsd0kePYG7A95tJPxeL+1OS
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/quantumwake/alethic-ism-core-go v0.0.0-20240831174026-c151b19b0a87 h1:KgbVmGUS5EiPz+NxcTHnuvUwP+XudynnMN+KKeyzTeY=
 github.com/quantumwake/alethic-ism-core-go v0.0.0-20240831174026-c151b19b0a87/go.mod h1:i8zelK/Ts5zl+iTA6xs7pqaJFcwb01637sTvnhrdtb0=
+github.com/quantumwake/alethic-ism-core-go v0.0.0-20240901183035-0830a900774e h1:PdjikDGQqmdoZXCjMSgVk/NjA6bNFl1SFajQR/qpmGI=
+github.com/quantumwake/alethic-ism-core-go v0.0.0-20240901183035-0830a900774e/go.mod h1:i8zelK/Ts5zl+iTA6xs7pqaJFcwb01637sTvnhrdtb0=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
