@@ -4,7 +4,7 @@ go 1.24
 
 toolchain go1.24.4
 
-require github.com/quantumwake/alethic-ism-core-go v0.1.16
+require github.com/quantumwake/alethic-ism-core-go v0.1.17
 
 require (
 	github.com/google/uuid v1.6.0 // indirect
